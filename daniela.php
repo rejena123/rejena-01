@@ -20,7 +20,7 @@
 <p>Religion: Roman Catholic</p>
 <p>Citizenship: Filipino</p>
 <p>Address: Jaguimit , City of Naga , Cebu</p>
-<a href="content.html" target="content">Back to original page</a>
+<a href="content.php" target="content">Back to original page</a>
 </p>
 
 
