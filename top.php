@@ -15,7 +15,7 @@ body{
 </head>
 <body>
 <h3>My Companion's Information</h3>
-<p><a href="menu-1.html" target="menu">Menu 1</a>
-| <a href="menu-2.html" target="menu">Menu 2</a></p>
+<p><a href="menu-1.php" target="menu">Menu 1</a>
+| <a href="menu-2.php" target="menu">Menu 2</a></p>
 </body>
 </html>
