@@ -1,0 +1,29 @@
+ <html>
+ <head>
+<title>Frames Content</title>
+ <style type="text/css">
+ body{ 
+   font-family:verdana,arial,san-serif;
+	 margin:30px;  
+	 background-color:burlywood;
+}
+</style>
+ </head>
+<body>
+<h3>Cutetoons</h3>
+<center><img src="arl.jpg"alt="arlene"width="600"height="300"></center>
+<p>Name: Arlene Alfeche</p>
+<p>Age: 20 yrs.old</p>
+<p>Gender: Female</p>
+<p>Birthdate: August 30 , 1997</p>
+<p>Address:  , City of Naga , Cebu</p>
+<p>Status: Single</p>
+<p>Religion: Roman Catholic</p>
+<p>Citizenship: Filipino</p>
+<a href="content.html" target="content">Back to original page</a>
+</p>
+
+
+
+</body>
+ </html>
