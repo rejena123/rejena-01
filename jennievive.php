@@ -20,7 +20,7 @@
 <p>Status: Single</p>
 <p>Religion: Roman Catholic</p>
 <p>Citizenship: Filipino</p>
-<a href="content.html" target="content">Back to original page</a>
+<a href="content.php" target="content">Back to original page</a>
 </p>
 
 
